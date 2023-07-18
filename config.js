@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'No, thanks :3',
     question: 'With over 7 billion people in the world, why do you love me? <3',
     btnReply: 'Send to you <3',
-    reply: 'Love if you love, don\'t love if you don\'t <33333333',
+    reply: 'Mestilaa sebabb cinta pndang pertamaa <33333333',
     mess: 'I know 🥰. Love you so much 😘😘',
     messDesc: 'Tonight at 7 PM, I will come to pick you up for a date.',
     btnAccept: 'Okayyyy <3',
