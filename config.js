@@ -16,5 +16,4 @@ const CONFIG = {
     mess: 'I know 🥰. Love you so much 😘😘',
     messDesc: 'Tonight at 7 PM, I will come to pick you up for a date.',
     btnAccept: 'Okayyyy <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //your message link. Example: https://www.facebook.com/messages/t/100014188333536
 }
