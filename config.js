@@ -1,19 +1,18 @@
 const CONFIG = {
-    titleWeb: "Web Title",
+    titleWeb: "Confess",
     introTitle: 'Ruebe',
-    introDesc: `The Earth is strange
-    But why do you keep getting lost
+    introDesc: `The Earth is a mysterious place
+    But why do you keep losing your way
     Wandering into my lonely heart
-    Behind the word "love" is "affection"`,
+    Behind the word 'love' lies 'affection`,
     btnIntro: '^^HiHi^^',
-    title: 'Did you fall in love at first sight? 🥰',
-    desc: 'Did you get intoxicated by that smile?',
+    title: 'When I first saw you, I felt an instant connection. 🥰',
+    desc: 'Your voice has a way of intoxicating me.',
     btnYes: 'I really like you <33',
     btnNo: 'No, thanks :3',
-    question: 'With over 7 billion people in the world, why do you love me? <3',
+    question: 'Thank You :3',
     btnReply: 'Send to you <3',
-    reply: 'Mestilaa sebabb cinta pndang pertamaa <33333333',
-    mess: 'I know 🥰. Love you so much 😘😘',
-    messDesc: 'Tonight at 7 PM, I will come to pick you up for a date.',
+    mess: 'Thank you for accepting me.',
+    messDesc: 'Dont forget to add my Discord, "ruby56_"',
     btnAccept: 'Okayyyy <3',
 }
